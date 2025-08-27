@@ -1,4 +1,3 @@
-# DI-Resolver-CleanArchitecture
 # DI (Resolver) - Clean Architecture in SwiftUI
 
 This project demonstrates how to structure a SwiftUI app using  
